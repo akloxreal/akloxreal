@@ -14,5 +14,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # 
 <div align="center">
-        <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aklox">
+        <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snow">
 </div>
