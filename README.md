@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aklox
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F737&width=435&lines=%F0%9F%91%8B+Hello%2C+i'm+Aklox)](https://git.io/typing-svg)
 ============================================================================================================================
 
 * 🌍  I'm based in My garden
